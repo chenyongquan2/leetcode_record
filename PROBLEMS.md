@@ -4,7 +4,7 @@
 
 | # | 题目 | 难度 | 频率 | 最近考察 | 完成 | 掌握 | 笔记 | 题解 |
 |---:|---|---|---:|---|:---:|---|---|---|
-| 1 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 中等 | 1190 | 2026-08-29 | ✅ | ★★☆ | [笔记](notes/0003-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0003-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/solution.py) / [C++](notes/0003-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/solution.cpp) |
+| 1 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 中等 | 1190 | 2026-08-29 |  |  |  |  |
 | 2 | [146. LRU缓存机制](https://leetcode.cn/problems/lru-cache/) | 中等 | 952 | 2026-08-28 |  |  |  |  |
 | 3 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 容易 | 750 | 2026-08-09 |  |  |  |  |
 | 4 | [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 中等 | 602 | 2026-08-26 |  |  |  |  |
@@ -217,7 +217,7 @@
 | 211 | [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) | 容易 | 23 | 2025-12-17 |  |  |  |  |
 | 212 | [443. 压缩字符串](https://leetcode.cn/problems/string-compression/) | 中等 | 23 | 2025-11-05 |  |  |  |  |
 | 213 | [面试题 17.14. 最小K个数](https://leetcode.cn/problems/smallest-k-lcci/) | 中等 | 22 | 2026-06-04 |  |  |  |  |
-| 214 | [86. 分隔链表](https://leetcode.cn/problems/partition-list/) | 中等 | 22 | 2026-03-23 |  |  |  |  |
+| 214 | [86. 分隔链表](https://leetcode.cn/problems/partition-list/) | 中等 | 22 | 2026-03-23 | ✅ | ★☆☆ | [笔记](notes/0086-%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0086-%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8/solution.py) |
 | 215 | [763. 划分字母区间](https://leetcode.cn/problems/partition-labels/) | 中等 | 22 | 2026-01-13 |  |  |  |  |
 | 216 | [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | 容易 | 22 | 2025-03-12 |  |  |  |  |
 | 217 | [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | 容易 | 22 | 2024-06-18 |  |  |  |  |
