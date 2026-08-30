@@ -3,7 +3,7 @@
 按 [CodeTop](https://codetop.cc/home) 面试频率排序的刷题记录。每道题一个文件夹（`notes/题号-题名/`），
 包含笔记 `README.md` 和 `solution.py` / `solution.cpp` 两种语言的题解。
 
-**进度：5 / 1155**　（数据更新于 2026-08-30，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
+**进度：6 / 1155**　（数据更新于 2026-08-30，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
 
 ## 使用方法
 
@@ -67,7 +67,7 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 35 | [93. 复原IP地址](https://leetcode.cn/problems/restore-ip-addresses/) | 中等 | 185 | 2026-05-12 |  |  |  |  |
 | 36 | [19. 删除链表的倒数第N个节点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 184 | 2026-07-23 | ✅ | ★☆☆ | [笔记](notes/0019-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9/README.md) | [Python](notes/0019-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9/solution.py) |
 | 37 | [4. 寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 困难 | 174 | 2026-08-10 |  |  |  |  |
-| 38 | [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 中等 | 170 | 2026-05-08 |  |  |  |  |
+| 38 | [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 中等 | 170 | 2026-05-08 | ✅ | ★★☆ | [笔记](notes/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/README.md) | [Python](notes/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/solution.py) |
 | 39 | [165. 比较版本号](https://leetcode.cn/problems/compare-version-numbers/) | 中等 | 166 | 2026-08-18 |  |  |  |  |
 | 40 | [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 161 | 2026-05-28 |  |  |  |  |
 | 41 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | 容易 | 153 | 2026-07-29 |  |  |  |  |
