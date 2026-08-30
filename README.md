@@ -3,7 +3,7 @@
 按 [CodeTop](https://codetop.cc/home) 面试频率排序的刷题记录。每道题一个文件夹（`notes/题号-题名/`），
 包含笔记 `README.md` 和 `solution.py` / `solution.cpp` 两种语言的题解。
 
-**进度：2 / 1155**　（数据更新于 2026-08-30，完整列表见 [PROBLEMS.md](PROBLEMS.md)）
+**进度：3 / 1155**　（数据更新于 2026-08-30，完整列表见 [PROBLEMS.md](PROBLEMS.md)）
 
 ## 使用方法
 
@@ -52,7 +52,7 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 20 | [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | 中等 | 271 | 2026-06-30 |  |  |  |  |
 | 21 | [103. 二叉树的锯齿形层次遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | 中等 | 270 | 2026-08-22 |  |  |  |  |
 | 22 | [236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 267 | 2026-07-06 |  |  |  |  |
-| 23 | [23. 合并K个排序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | 困难 | 259 | 2026-08-21 |  |  |  |  |
+| 23 | [23. 合并K个排序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | 困难 | 259 | 2026-08-21 | ✅ | ★☆☆ | [笔记](notes/0023-%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0023-%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/solution.py) |
 | 24 | [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | 中等 | 256 | 2026-07-30 |  |  |  |  |
 | 25 | [143. 重排链表](https://leetcode.cn/problems/reorder-list/) | 中等 | 254 | 2026-08-27 |  |  |  |  |
 | 26 | [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/) | 容易 | 254 | 2026-08-17 |  |  |  |  |
