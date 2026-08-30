@@ -39,6 +39,12 @@ class Solution:
                 heapq.heappush(pq,item)
 
         #每次从最小堆里面取出来一个最小的元素，拼接到链表上
+        # 【知识点】while pq: 不能写成 while pq is not None:
+        # pq 是 list，从头到尾都是同一个对象，弹空后是 [] 而不是 None，
+        # 所以 pq is not None 永远为真 → 空堆继续 heappop 会抛 IndexError。
+        # list 定义了 __len__，while pq: 的含义是"堆非空就继续"（等价于 len(pq) > 0），
+        # 这才是要的循环条件。一句话：is not None 问"在不在"，真值判断问"空不空"，
+        # 对链表节点两个答案恰好相同，对容器（list/dict/str）则完全是两回事。
         while pq:
             val,i,node = heapq.heappop(pq)
             p.next=node
