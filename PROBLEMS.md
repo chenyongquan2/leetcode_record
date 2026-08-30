@@ -33,7 +33,7 @@
 | 27 | [56. 合并区间](https://leetcode.cn/problems/merge-intervals/) | 中等 | 247 | 2026-08-24 |  |  |  |  |
 | 28 | [415. 字符串相加](https://leetcode.cn/problems/add-strings/) | 容易 | 243 | 2026-08-20 |  |  |  |  |
 | 29 | [72. 编辑距离](https://leetcode.cn/problems/edit-distance/) | 困难 | 205 | 2026-08-12 |  |  |  |  |
-| 30 | [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 容易 | 202 | 2026-06-29 |  |  |  |  |
+| 30 | [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 容易 | 202 | 2026-06-29 | ✅ | ★☆☆ | [笔记](notes/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/solution.py) |
 | 31 | [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/) | 困难 | 199 | 2026-08-05 |  |  |  |  |
 | 32 | [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | 中等 | 198 | 2026-08-19 |  |  |  |  |
 | 33 | [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) | 中等 | 187 | 2026-08-05 |  |  |  |  |
