@@ -1,6 +1,6 @@
 # 全部题目（1155 题）
 
-按 CodeTop 面试频率降序排列，数据更新于 2026-08-30。高频 Top 100 见 [README.md](README.md)。
+按 CodeTop 面试频率降序排列，数据更新于 2026-08-31。高频 Top 100 见 [README.md](README.md)。
 
 | # | 题目 | 难度 | 频率 | 最近考察 | 完成 | 掌握 | 笔记 | 题解 |
 |---:|---|---|---:|---|:---:|---|---|---|
@@ -132,7 +132,7 @@
 | 126 | [498. 对角线遍历](https://leetcode.cn/problems/diagonal-traverse/) | 中等 | 48 | 2026-04-20 |  |  |  |  |
 | 127 | [74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) | 中等 | 47 | 2026-08-13 |  |  |  |  |
 | 128 | [114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | 中等 | 47 | 2026-06-14 |  |  |  |  |
-| 129 | [26. 删除排序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | 容易 | 47 | 2026-03-18 |  |  |  |  |
+| 129 | [26. 删除排序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) | 容易 | 47 | 2026-03-18 | ✅ | ★☆☆ | [笔记](notes/0026-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9/README.md) | [Python](notes/0026-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9/solution.py) |
 | 130 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | 中等 | 47 | 2026-02-06 |  |  |  |  |
 | 131 | [958. 二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree/) | 中等 | 47 | 2025-11-06 |  |  |  |  |
 | 132 | [剑指 Offer 09. 用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | 容易 | 47 | 2024-12-19 |  |  |  |  |
