@@ -3,7 +3,7 @@
 按 [CodeTop](https://codetop.cc/home) 面试频率排序的刷题记录。每道题一个文件夹（`notes/题号-题名/`），
 包含笔记 `README.md` 和 `solution.py` / `solution.cpp` 两种语言的题解。
 
-**进度：9 / 1155**　（数据更新于 2026-08-31，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
+**进度：10 / 1155**　（数据更新于 2026-08-31，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
 
 ## 使用方法
 
@@ -129,4 +129,4 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 97 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 容易 | 68 | 2026-03-29 |  |  |  |  |
 | 98 | [169. 多数元素](https://leetcode.cn/problems/majority-element/) | 容易 | 68 | 2026-03-18 |  |  |  |  |
 | 99 | [207. 课程表](https://leetcode.cn/problems/course-schedule/) | 中等 | 67 | 2026-07-08 |  |  |  |  |
-| 100 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | 容易 | 67 | 2026-03-23 |  |  |  |  |
+| 100 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | 容易 | 67 | 2026-03-23 | ✅ | ★☆☆ | [笔记](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/README.md) | [Python](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/solution.py) |

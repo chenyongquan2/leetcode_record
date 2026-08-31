@@ -103,7 +103,7 @@
 | 97 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 容易 | 68 | 2026-03-29 |  |  |  |  |
 | 98 | [169. 多数元素](https://leetcode.cn/problems/majority-element/) | 容易 | 68 | 2026-03-18 |  |  |  |  |
 | 99 | [207. 课程表](https://leetcode.cn/problems/course-schedule/) | 中等 | 67 | 2026-07-08 |  |  |  |  |
-| 100 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | 容易 | 67 | 2026-03-23 |  |  |  |  |
+| 100 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | 容易 | 67 | 2026-03-23 | ✅ | ★☆☆ | [笔记](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/README.md) | [Python](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/solution.py) |
 | 101 | [补充题6. 手撕堆排序](https://leetcode.cn/problems/sort-an-array/) | 中等 | 64 | 2026-07-31 |  |  |  |  |
 | 102 | [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/) | 中等 | 63 | 2026-05-19 |  |  |  |  |
 | 103 | [79. 单词搜索](https://leetcode.cn/problems/word-search/) | 中等 | 61 | 2026-06-03 |  |  |  |  |
