@@ -3,7 +3,7 @@
 按 [CodeTop](https://codetop.cc/home) 面试频率排序的刷题记录。每道题一个文件夹（`notes/题号-题名/`），
 包含笔记 `README.md` 和 `solution.py` / `solution.cpp` 两种语言的题解。
 
-**进度：13 / 1155**　（数据更新于 2026-08-31，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
+**进度：14 / 1155**　（数据更新于 2026-08-31，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
 
 ## 使用方法
 
@@ -38,7 +38,7 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 6 | [15. 三数之和](https://leetcode.cn/problems/3sum/) | 中等 | 489 | 2026-08-26 |  |  |  |  |
 | 7 | [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | 375 | 2026-07-16 |  |  |  |  |
 | 8 | [补充题4. 手撕快速排序](https://leetcode.cn/problems/sort-an-array/) | 中等 | 357 | 2026-08-16 |  |  |  |  |
-| 9 | [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 中等 | 356 | 2026-08-24 |  |  |  |  |
+| 9 | [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 中等 | 356 | 2026-08-24 | ✅ | ★☆☆ | [笔记](notes/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/solution.py) |
 | 10 | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 容易 | 333 | 2026-08-19 | ✅ | ★☆☆ | [笔记](notes/0021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/solution.py) |
 | 11 | [200. 岛屿数量](https://leetcode.cn/problems/number-of-islands/) | 中等 | 331 | 2026-08-26 |  |  |  |  |
 | 12 | [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 中等 | 331 | 2026-08-20 |  |  |  |  |
