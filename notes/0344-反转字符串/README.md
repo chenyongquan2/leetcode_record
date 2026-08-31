@@ -2,7 +2,7 @@
 fid: "344"
 title: 反转字符串
 done: true
-mastery: 2
+mastery: 3
 ---
 
 # 344. 反转字符串

@@ -17,7 +17,7 @@
 python scripts/new_note.py 3
 
 # 在 notes/0003-无重复字符的最长子串/ 里写笔记和题解，
-# 并在其 README.md 顶部 frontmatter 中维护 done（是否完成）和 mastery（掌握程度 0-3）
+# 并在其 README.md 顶部 frontmatter 中维护 done（是否完成）和 mastery（掌握程度 0-5）
 
 # 重新生成本页和 PROBLEMS.md 的表格
 python scripts/gen_readme.py
@@ -38,8 +38,8 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 6 | [15. 三数之和](https://leetcode.cn/problems/3sum/) | 中等 | 489 | 2026-08-26 |  |  |  |  |
 | 7 | [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | 375 | 2026-07-16 |  |  |  |  |
 | 8 | [补充题4. 手撕快速排序](https://leetcode.cn/problems/sort-an-array/) | 中等 | 357 | 2026-08-16 |  |  |  |  |
-| 9 | [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 中等 | 356 | 2026-08-24 | ✅ | ★☆☆ | [笔记](notes/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/solution.py) |
-| 10 | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 容易 | 333 | 2026-08-19 | ✅ | ★☆☆ | [笔记](notes/0021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/solution.py) |
+| 9 | [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 中等 | 356 | 2026-08-24 | ✅ | ★☆☆☆☆ | [笔记](notes/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0005-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/solution.py) |
+| 10 | [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 容易 | 333 | 2026-08-19 | ✅ | ★☆☆☆☆ | [笔记](notes/0021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/solution.py) |
 | 11 | [200. 岛屿数量](https://leetcode.cn/problems/number-of-islands/) | 中等 | 331 | 2026-08-26 |  |  |  |  |
 | 12 | [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 中等 | 331 | 2026-08-20 |  |  |  |  |
 | 13 | [33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 中等 | 315 | 2026-08-21 |  |  |  |  |
@@ -52,22 +52,22 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 20 | [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/) | 中等 | 271 | 2026-06-30 |  |  |  |  |
 | 21 | [103. 二叉树的锯齿形层次遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | 中等 | 270 | 2026-08-22 |  |  |  |  |
 | 22 | [236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 267 | 2026-07-06 |  |  |  |  |
-| 23 | [23. 合并K个排序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | 困难 | 259 | 2026-08-21 | ✅ | ★☆☆ | [笔记](notes/0023-%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0023-%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/solution.py) |
+| 23 | [23. 合并K个排序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | 困难 | 259 | 2026-08-21 | ✅ | ★☆☆☆☆ | [笔记](notes/0023-%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0023-%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/solution.py) |
 | 24 | [54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | 中等 | 256 | 2026-07-30 |  |  |  |  |
 | 25 | [143. 重排链表](https://leetcode.cn/problems/reorder-list/) | 中等 | 254 | 2026-08-27 |  |  |  |  |
 | 26 | [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/) | 容易 | 254 | 2026-08-17 |  |  |  |  |
 | 27 | [56. 合并区间](https://leetcode.cn/problems/merge-intervals/) | 中等 | 247 | 2026-08-24 |  |  |  |  |
 | 28 | [415. 字符串相加](https://leetcode.cn/problems/add-strings/) | 容易 | 243 | 2026-08-20 |  |  |  |  |
 | 29 | [72. 编辑距离](https://leetcode.cn/problems/edit-distance/) | 困难 | 205 | 2026-08-12 |  |  |  |  |
-| 30 | [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 容易 | 202 | 2026-06-29 | ✅ | ★☆☆ | [笔记](notes/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/solution.py) |
+| 30 | [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 容易 | 202 | 2026-06-29 | ✅ | ★☆☆☆☆ | [笔记](notes/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/README.md) | [Python](notes/0160-%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/solution.py) |
 | 31 | [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/) | 困难 | 199 | 2026-08-05 |  |  |  |  |
 | 32 | [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) | 中等 | 198 | 2026-08-19 |  |  |  |  |
 | 33 | [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/) | 中等 | 187 | 2026-08-05 |  |  |  |  |
 | 34 | [124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | 困难 | 185 | 2026-08-06 |  |  |  |  |
 | 35 | [93. 复原IP地址](https://leetcode.cn/problems/restore-ip-addresses/) | 中等 | 185 | 2026-05-12 |  |  |  |  |
-| 36 | [19. 删除链表的倒数第N个节点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 184 | 2026-07-23 | ✅ | ★☆☆ | [笔记](notes/0019-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9/README.md) | [Python](notes/0019-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9/solution.py) |
+| 36 | [19. 删除链表的倒数第N个节点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) | 中等 | 184 | 2026-07-23 | ✅ | ★☆☆☆☆ | [笔记](notes/0019-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9/README.md) | [Python](notes/0019-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9/solution.py) |
 | 37 | [4. 寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 困难 | 174 | 2026-08-10 |  |  |  |  |
-| 38 | [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 中等 | 170 | 2026-05-08 | ✅ | ★★☆ | [笔记](notes/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/README.md) | [Python](notes/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/solution.py) |
+| 38 | [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 中等 | 170 | 2026-05-08 | ✅ | ★★★☆☆ | [笔记](notes/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/README.md) | [Python](notes/0142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II/solution.py) |
 | 39 | [165. 比较版本号](https://leetcode.cn/problems/compare-version-numbers/) | 中等 | 166 | 2026-08-18 |  |  |  |  |
 | 40 | [199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 161 | 2026-05-28 |  |  |  |  |
 | 41 | [704. 二分查找](https://leetcode.cn/problems/binary-search/) | 容易 | 153 | 2026-07-29 |  |  |  |  |
@@ -79,7 +79,7 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 47 | [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | 容易 | 144 | 2026-05-20 |  |  |  |  |
 | 48 | [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) | 容易 | 143 | 2026-03-08 |  |  |  |  |
 | 49 | [31. 下一个排列](https://leetcode.cn/problems/next-permutation/) | 中等 | 137 | 2026-08-04 |  |  |  |  |
-| 50 | [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 困难 | 135 | 2026-08-18 | ✅ | ★☆☆ | [笔记](notes/0076-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0076-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2/solution.py) |
+| 50 | [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 困难 | 135 | 2026-08-18 | ✅ | ★☆☆☆☆ | [笔记](notes/0076-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0076-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2/solution.py) |
 | 51 | [8. 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/) | 中等 | 134 | 2026-08-24 |  |  |  |  |
 | 52 | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | 中等 | 133 | 2026-04-16 |  |  |  |  |
 | 53 | [43. 字符串相乘](https://leetcode.cn/problems/multiply-strings/) | 中等 | 132 | 2026-08-27 |  |  |  |  |
@@ -123,10 +123,10 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 | 91 | [24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | 中等 | 73 | 2026-06-10 |  |  |  |  |
 | 92 | [112. 路径总和](https://leetcode.cn/problems/path-sum/) | 容易 | 72 | 2026-04-14 |  |  |  |  |
 | 93 | [139. 单词拆分](https://leetcode.cn/problems/word-break/) | 中等 | 70 | 2026-08-27 |  |  |  |  |
-| 94 | [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | 容易 | 69 | 2026-04-23 | ✅ | ★★☆ | [笔记](notes/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/README.md) | [Python](notes/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/solution.py) |
+| 94 | [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | 容易 | 69 | 2026-04-23 | ✅ | ★★★☆☆ | [笔记](notes/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/README.md) | [Python](notes/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/solution.py) |
 | 95 | [227. 基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/) | 中等 | 69 | 2026-03-30 |  |  |  |  |
 | 96 | [718. 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | 中等 | 68 | 2026-05-26 |  |  |  |  |
 | 97 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 容易 | 68 | 2026-03-29 |  |  |  |  |
 | 98 | [169. 多数元素](https://leetcode.cn/problems/majority-element/) | 容易 | 68 | 2026-03-18 |  |  |  |  |
 | 99 | [207. 课程表](https://leetcode.cn/problems/course-schedule/) | 中等 | 67 | 2026-07-08 |  |  |  |  |
-| 100 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | 容易 | 67 | 2026-03-23 | ✅ | ★☆☆ | [笔记](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/README.md) | [Python](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/solution.py) |
+| 100 | [283. 移动零](https://leetcode.cn/problems/move-zeroes/) | 容易 | 67 | 2026-03-23 | ✅ | ★☆☆☆☆ | [笔记](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/README.md) | [Python](notes/0283-%E7%A7%BB%E5%8A%A8%E9%9B%B6/solution.py) |

@@ -2,7 +2,7 @@
 fid: "142"
 title: 环形链表 II
 done: true
-mastery: 2
+mastery: 3
 ---
 
 # 142. 环形链表 II

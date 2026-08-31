@@ -2,7 +2,7 @@
 fid: "876"
 title: 链表的中间结点
 done: true
-mastery: 3
+mastery: 5
 ---
 
 # 876. 链表的中间结点

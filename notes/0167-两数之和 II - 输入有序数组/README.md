@@ -2,7 +2,7 @@
 fid: "167"
 title: 两数之和 II - 输入有序数组
 done: true
-mastery: 3
+mastery: 5
 ---
 
 # 167. 两数之和 II - 输入有序数组

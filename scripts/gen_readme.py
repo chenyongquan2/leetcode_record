@@ -20,10 +20,15 @@ def leetcode_link(q) -> str:
     return f"{q['fid']}. {q['title']}"
 
 
+# codetop 网站的掌握程度是 0-3 制，折算到本仓库的 5 分制
+CODETOP_RATE_TO_5 = {0: 0, 1: 1, 2: 3, 3: 5}
+
+
 def row(rank: int, q, note) -> str:
     done = "✅" if (note and note["done"]) or q.get("codetop_status") else ""
-    mastery = max(note["mastery"] if note else 0, q.get("codetop_rate") or 0)
-    stars = "★" * mastery + "☆" * (3 - mastery) if (note or mastery) else ""
+    rate5 = CODETOP_RATE_TO_5.get(q.get("codetop_rate") or 0, 0)
+    mastery = min(max(note["mastery"] if note else 0, rate5), 5)
+    stars = "★" * mastery + "☆" * (5 - mastery) if (note or mastery) else ""
     if note:
         d = quote(note["dir"])
         note_link = f"[笔记](notes/{d}/README.md)"
@@ -82,7 +87,7 @@ def main() -> None:
 python scripts/new_note.py 3
 
 # 在 notes/0003-无重复字符的最长子串/ 里写笔记和题解，
-# 并在其 README.md 顶部 frontmatter 中维护 done（是否完成）和 mastery（掌握程度 0-3）
+# 并在其 README.md 顶部 frontmatter 中维护 done（是否完成）和 mastery（掌握程度 0-5）
 
 # 重新生成本页和 PROBLEMS.md 的表格
 python scripts/gen_readme.py
