@@ -264,7 +264,7 @@
 | 258 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | 中等 | 17 | 2025-09-23 |  |  |  |  |
 | 259 | [863. 二叉树中所有距离为 K 的结点](https://leetcode.cn/problems/all-nodes-distance-k-in-binary-tree/) | 中等 | 17 | 2025-09-17 |  |  |  |  |
 | 260 | [674. 最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | 容易 | 17 | 2025-03-30 |  |  |  |  |
-| 261 | [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | 容易 | 17 | 2024-12-05 |  |  |  |  |
+| 261 | [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | 容易 | 17 | 2024-12-05 | ✅ | ★★★ | [笔记](notes/0167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84/README.md) | [Python](notes/0167-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84/solution.py) |
 | 262 | [100. 相同的树](https://leetcode.cn/problems/same-tree/) | 容易 | 17 | 2024-04-26 |  |  |  |  |
 | 263 | [557. 反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/) | 容易 | 17 | 2022-07-31 |  |  |  |  |
 | 264 | [107. 二叉树的层次遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/) | 中等 | 16 | 2026-08-06 |  |  |  |  |
