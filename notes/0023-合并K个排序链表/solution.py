@@ -15,6 +15,9 @@ class ListNode:
 
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        # 优先队列 pq 中的元素个数最多是  k，
+        # 所以一次 poll 或者 add 方法的时间复杂度是  O(logk)；
+        # 所有的链表节点都会被加入和弹出 pq，所以算法整体的时间复杂度是O(Nlogk)，其中k是链表的条数， N N 是这些链表的节点总数。
         if not lists:
             return None
 
