@@ -53,7 +53,7 @@
 | 47 | [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | 容易 | 144 | 2026-05-20 |  |  |  |  |
 | 48 | [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) | 容易 | 143 | 2026-03-08 |  |  |  |  |
 | 49 | [31. 下一个排列](https://leetcode.cn/problems/next-permutation/) | 中等 | 137 | 2026-08-04 |  |  |  |  |
-| 50 | [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 困难 | 135 | 2026-08-18 |  |  |  |  |
+| 50 | [76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) | 困难 | 135 | 2026-08-18 | ✅ | ★☆☆ | [笔记](notes/0076-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0076-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2/solution.py) |
 | 51 | [8. 字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/) | 中等 | 134 | 2026-08-24 |  |  |  |  |
 | 52 | [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/) | 中等 | 133 | 2026-04-16 |  |  |  |  |
 | 53 | [43. 字符串相乘](https://leetcode.cn/problems/multiply-strings/) | 中等 | 132 | 2026-08-27 |  |  |  |  |
