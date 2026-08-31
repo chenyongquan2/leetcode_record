@@ -200,7 +200,7 @@
 | 194 | [补充题9. 36进制加法](https://leetcode.cn/problems/https://mp.weixin.qq.com/s/XcKQwnwCh5nZsz-DLHJwzQ/) | 中等 | 25 | 2025-04-08 |  |  |  |  |
 | 195 | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | 容易 | 25 | 2025-04-01 |  |  |  |  |
 | 196 | [剑指 Offer 27. 二叉树的镜像](https://leetcode.cn/problems/er-cha-shu-de-jing-xiang-lcof/) | 容易 | 25 | 2022-04-19 |  |  |  |  |
-| 197 | [344. 反转字符串](https://leetcode.cn/problems/reverse-string/) | 容易 | 24 | 2026-08-10 |  |  |  |  |
+| 197 | [344. 反转字符串](https://leetcode.cn/problems/reverse-string/) | 容易 | 24 | 2026-08-10 | ✅ | ★★☆ | [笔记](notes/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md) | [Python](notes/0344-%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/solution.py) |
 | 198 | [494. 目标和](https://leetcode.cn/problems/target-sum/) | 中等 | 24 | 2026-07-09 |  |  |  |  |
 | 199 | [12. 整数转罗马数字](https://leetcode.cn/problems/integer-to-roman/) | 中等 | 24 | 2026-07-08 |  |  |  |  |
 | 200 | [647. 回文子串](https://leetcode.cn/problems/palindromic-substrings/) | 中等 | 24 | 2026-04-20 |  |  |  |  |
