@@ -486,7 +486,7 @@
 | 480 | [796. 旋转字符串](https://leetcode.cn/problems/rotate-string/) | 容易 | 5 | 2024-03-28 |  |  |  |  |
 | 481 | [面试题 08.02. 迷路的机器人](https://leetcode.cn/problems/robot-in-a-grid-lcci/) | 中等 | 5 | 2024-01-24 |  |  |  |  |
 | 482 | [1424. 对角线遍历 II](https://leetcode.cn/problems/diagonal-traverse-ii/) | 中等 | 5 | 2023-11-27 |  |  |  |  |
-| 483 | [27. 移除元素](https://leetcode.cn/problems/remove-element/) | 容易 | 5 | 2023-11-20 |  |  |  |  |
+| 483 | [27. 移除元素](https://leetcode.cn/problems/remove-element/) | 容易 | 5 | 2023-11-20 | ✅ | ★☆☆ | [笔记](notes/0027-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/README.md) | [Python](notes/0027-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/solution.py) |
 | 484 | [1325. 删除给定值的叶子节点](https://leetcode.cn/problems/delete-leaves-with-a-given-value/) | 中等 | 5 | 2023-09-21 |  |  |  |  |
 | 485 | [面试题 01.05. 一次编辑](https://leetcode.cn/problems/one-away-lcci/) | 中等 | 5 | 2023-05-10 |  |  |  |  |
 | 486 | [303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | 容易 | 5 | 2023-04-19 |  |  |  |  |
