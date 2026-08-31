@@ -97,7 +97,7 @@
 | 91 | [24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) | 中等 | 73 | 2026-06-10 |  |  |  |  |
 | 92 | [112. 路径总和](https://leetcode.cn/problems/path-sum/) | 容易 | 72 | 2026-04-14 |  |  |  |  |
 | 93 | [139. 单词拆分](https://leetcode.cn/problems/word-break/) | 中等 | 70 | 2026-08-27 |  |  |  |  |
-| 94 | [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | 容易 | 69 | 2026-04-23 |  |  |  |  |
+| 94 | [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | 容易 | 69 | 2026-04-23 | ✅ | ★★☆ | [笔记](notes/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/README.md) | [Python](notes/0083-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0/solution.py) |
 | 95 | [227. 基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii/) | 中等 | 69 | 2026-03-30 |  |  |  |  |
 | 96 | [718. 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) | 中等 | 68 | 2026-05-26 |  |  |  |  |
 | 97 | [226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 容易 | 68 | 2026-03-29 |  |  |  |  |
