@@ -87,7 +87,7 @@
 | 81 | [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/) | 容易 | 84 | 2026-06-11 |  |  |  |  |
 | 82 | [98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 中等 | 84 | 2026-04-20 |  |  |  |  |
 | 83 | [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 容易 | 84 | 2025-04-17 | ✅ | ★★★★★ | [笔记](notes/0144-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86/README.md) | [Python](notes/0144-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86/solution.py) |
-| 84 | [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | 容易 | 82 | 2026-08-03 |  |  |  |  |
+| 84 | [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | 容易 | 82 | 2026-08-03 | ✅ | ★★★☆☆ | [笔记](notes/0543-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84/README.md) | [Python](notes/0543-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84/solution.py) |
 | 85 | [560. 和为K的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/) | 中等 | 80 | 2026-08-17 |  |  |  |  |
 | 86 | [162. 寻找峰值](https://leetcode.cn/problems/find-peak-element/) | 中等 | 80 | 2026-04-19 |  |  |  |  |
 | 87 | [113. 路径总和 II](https://leetcode.cn/problems/path-sum-ii/) | 中等 | 78 | 2026-07-24 |  |  |  |  |
