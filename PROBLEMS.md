@@ -1,6 +1,6 @@
 # 全部题目（1155 题）
 
-按 CodeTop 面试频率降序排列，数据更新于 2026-08-31。高频 Top 100 见 [README.md](README.md)。
+按 CodeTop 面试频率降序排列，数据更新于 2026-09-01。高频 Top 100 见 [README.md](README.md)。
 
 | # | 题目 | 难度 | 频率 | 最近考察 | 完成 | 掌握 | 笔记 | 题解 |
 |---:|---|---|---:|---|:---:|---|---|---|
@@ -238,7 +238,7 @@
 | 232 | [6. Z 字形变换](https://leetcode.cn/problems/zigzag-conversion/) | 中等 | 20 | 2026-04-02 |  |  |  |  |
 | 233 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | 中等 | 20 | 2025-08-27 |  |  |  |  |
 | 234 | [37. 解数独](https://leetcode.cn/problems/sudoku-solver/) | 困难 | 20 | 2025-04-22 |  |  |  |  |
-| 235 | [567. 字符串的排列](https://leetcode.cn/problems/permutation-in-string/) | 中等 | 20 | 2025-03-11 |  |  |  |  |
+| 235 | [567. 字符串的排列](https://leetcode.cn/problems/permutation-in-string/) | 中等 | 20 | 2025-03-11 | ✅ | ★★★☆☆ | [笔记](notes/0567-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97/README.md) | [Python](notes/0567-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97/solution.py) |
 | 236 | [556. 下一个更大元素 III](https://leetcode.cn/problems/next-greater-element-iii/) | 中等 | 20 | 2025-03-03 |  |  |  |  |
 | 237 | [80. 删除排序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) | 中等 | 19 | 2026-08-28 |  |  |  |  |
 | 238 | [528. 按权重随机选择](https://leetcode.cn/problems/random-pick-with-weight/) | 中等 | 19 | 2026-08-22 |  |  |  |  |
