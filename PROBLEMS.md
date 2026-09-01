@@ -75,7 +75,7 @@
 | 69 | [695. 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/) | 中等 | 94 | 2026-06-23 |  |  |  |  |
 | 70 | [128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | 中等 | 93 | 2026-06-30 |  |  |  |  |
 | 71 | [122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | 容易 | 91 | 2026-06-04 |  |  |  |  |
-| 72 | [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | 容易 | 91 | 2026-05-07 |  |  |  |  |
+| 72 | [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | 容易 | 91 | 2026-05-07 | ✅ | ★★★★★ | [笔记](notes/0104-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6/README.md) | [Python](notes/0104-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6/solution.py) |
 | 73 | [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/) | 容易 | 88 | 2026-08-06 |  |  |  |  |
 | 74 | [221. 最大正方形](https://leetcode.cn/problems/maximal-square/) | 中等 | 88 | 2026-04-17 |  |  |  |  |
 | 75 | [234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list/) | 容易 | 86 | 2026-05-21 |  |  |  |  |
