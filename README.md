@@ -3,7 +3,7 @@
 按 [CodeTop](https://codetop.cc/home) 面试频率排序的刷题记录。每道题一个文件夹（`notes/题号-题名/`），
 包含笔记 `README.md` 和 `solution.py` / `solution.cpp` 两种语言的题解。
 
-**进度：17 / 1155**　（数据更新于 2026-09-01，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
+**进度：18 / 1155**　（数据更新于 2026-09-01，完整列表见 [PROBLEMS.md](PROBLEMS.md)，易错知识点汇总见 [TIPS.md](TIPS.md)）
 
 ## 使用方法
 
@@ -30,7 +30,7 @@ python scripts/fetch_codetop.py && python scripts/gen_readme.py
 
 | # | 题目 | 难度 | 频率 | 最近考察 | 完成 | 掌握 | 笔记 | 题解 |
 |---:|---|---|---:|---|:---:|---|---|---|
-| 1 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 中等 | 1190 | 2026-08-29 |  |  |  |  |
+| 1 | [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 中等 | 1190 | 2026-08-29 | ✅ | ★☆☆☆☆ | [笔记](notes/0003-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/README.md) | [Python](notes/0003-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2/solution.py) |
 | 2 | [146. LRU缓存机制](https://leetcode.cn/problems/lru-cache/) | 中等 | 952 | 2026-08-28 |  |  |  |  |
 | 3 | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 容易 | 750 | 2026-08-09 |  |  |  |  |
 | 4 | [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 中等 | 602 | 2026-08-26 |  |  |  |  |
